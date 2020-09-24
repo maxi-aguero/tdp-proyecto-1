@@ -7,6 +7,7 @@ public class testColor {
 		System.out.println(cl.toString());
 		
 		Color cl2= new Color(14,50,2);
+
 		System.out.println(cl2.toString());
 		
 
